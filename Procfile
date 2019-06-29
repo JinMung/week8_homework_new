@@ -1,4 +1,4 @@
 
-web: gunicorn hwproject2.wgsi --log-file -
+web: gunicorn hwproject2.wsgi --log-file -
 
 
